@@ -1,0 +1,15 @@
+Steepest Ascent Hill Climb
+k= 10
+number of runs= 10
+0  619
+1  591
+2  566
+3  572
+4  574
+5  572
+6  587
+7  557
+8  609
+9  677
+best solution= 677
+average solution= 592
